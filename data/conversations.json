@@ -1,27 +1,51 @@
 {
   "conversations": [
     {
-      "friend_id": "friend_1",
+      "users": ["friend_1", "doge"],
       "messages": [
         {
+          "from": "friend_1",
           "content": "Hello",
           "createdAt": "1589915547912"
         },
         {
+          "from": "doge" ,
           "content": "A new message",
           "createdAt": "1589915547912"
         },
         {
+          "from": "friend_1",
           "content": "To add flavour to this conversation",
           "createdAt": "1589915547912"
         }
       ]
     },
     {
-      "friend_id": "friend_3",
+      "users": ["friend_3", "doge"],
       "messages": [
         {
+          "from": "friend_3",
           "content": "Good day",
+          "createdAt": "1589915547912"
+        }
+      ]
+    },
+    {
+      "users": ["friend_5", "doge"],
+      "messages": [
+        {
+          "from": "doge",
+          "content": "Hi",
+          "createdAt": "1589915547912"
+        }
+      ]
+    },
+        {
+      "users": ["friend_5", "friend_3"],
+      "messages": [
+        {
+          "from": "frend_3",
+          "content": "Hi",
           "createdAt": "1589915547912"
         }
       ]

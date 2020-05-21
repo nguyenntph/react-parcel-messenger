@@ -2,32 +2,33 @@
   "friends": [
     {
       "id": "friend_1",
-      "username": "Imaginary Friend 1",
-      "avatar":  "https://i.pinimg.com/564x/dd/61/d5/dd61d584c5015a2ba283095aec62968f.jpg",
-      "lastMessage": "Good day",
+      "username": "Fluffy",
+      "avatar":  "https://www.omghowcheap.co.uk/ekmps/shops/omghowcheap/images/birthday-card-blank-little-cat-design-square-size-5.25-x-5.25-by-ling-ff0555-5434-p.jpg",
+      "lastMessage": "To add flavour to this conversation",
       "lastMessageAt": "1589915547912"
     },
     {
       "id": "friend_2",
-      "username": "Imaginary Friend 2",
-      "avatar":  "https://i.pinimg.com/564x/dd/61/d5/dd61d584c5015a2ba283095aec62968f.jpg"
+      "username": "Moon Moon",
+      "avatar":  "https://pbs.twimg.com/profile_images/378800000220825838/684eb62aaee2a7d1a1ca1177136ebecc.jpeg"
     },
     {
       "id": "friend_3",
-      "username": "Imaginary Friend 3",
-      "avatar":  "https://i.pinimg.com/564x/dd/61/d5/dd61d584c5015a2ba283095aec62968f.jpg",
+      "username": "Derpy",
+      "avatar":  "https://i.pinimg.com/originals/1c/a1/1c/1ca11c1fe1ff6e6afde330c4e449e55f.jpg",
       "lastMessage": "Good day",
       "lastMessageAt": "1589915547912"
     },
     {
       "id": "friend_4",
-      "username": "Imaginary Friend 4",
-      "avatar":  "https://i.pinimg.com/564x/dd/61/d5/dd61d584c5015a2ba283095aec62968f.jpg"
+      "username": "Puggy",
+      "avatar":  "https://styles.redditmedia.com/t5_7yucb/styles/profileIcon_7oeip9pcgdr21.jpg?width=256&height=256&crop=256:256,smart&s=3243bf13f8c538eb727c7e7f13b513b67e3ab335"
     },
     {
       "id": "friend_5",
-      "username": "Imaginary Friend 5",
-      "avatar":  "https://i.pinimg.com/564x/dd/61/d5/dd61d584c5015a2ba283095aec62968f.jpg"
+      "username": "Drooly",
+      "avatar":  "https://pbs.twimg.com/profile_images/539582015129935872/vK1iSEoO_400x400.jpeg",
+      "lastMessage": "Hi"
     }
   ]
 }
