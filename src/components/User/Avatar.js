@@ -1,7 +1,13 @@
-import React, { Fragment } from 'react';
+import React from "react";
 
-const Avatar = ({ url }) => (
-  <img src={url} width="50" height="50" style={{ borderRadius: '100%' }}/>
-)
+const Avatar = ({ url, className, width = 50, height = 50, ...others }) => (
+  <img
+    src={url}
+    className={`${className} rounded-full`}
+    width={width}
+    height={height}
+    {...others}
+  />
+);
 
 export default Avatar;
