@@ -12,15 +12,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-sass": "^4.14.1",
+    "font-awesome": "^4.7.0",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-grid-system": "^6.4.2"
+    "react-dom": "^16.13.1"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
+    "babel-eslint": "^10.1.0",
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
-    "cssnano": "^4.1.10"
+    "eslint": "^7.0.0",
+    "eslint-plugin-react": "^7.16.0",
+    "prettier": "^1.18.2"
   }
 }
