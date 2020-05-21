@@ -1,0 +1,33 @@
+{
+  "friends": [
+    {
+      "id": "friend_1",
+      "username": "Imaginary Friend 1",
+      "avatar":  "https://i.pinimg.com/564x/dd/61/d5/dd61d584c5015a2ba283095aec62968f.jpg",
+      "lastMessage": "Good day",
+      "lastMessageAt": "1589915547912"
+    },
+    {
+      "id": "friend_2",
+      "username": "Imaginary Friend 2",
+      "avatar":  "https://i.pinimg.com/564x/dd/61/d5/dd61d584c5015a2ba283095aec62968f.jpg"
+    },
+    {
+      "id": "friend_3",
+      "username": "Imaginary Friend 3",
+      "avatar":  "https://i.pinimg.com/564x/dd/61/d5/dd61d584c5015a2ba283095aec62968f.jpg",
+      "lastMessage": "Good day",
+      "lastMessageAt": "1589915547912"
+    },
+    {
+      "id": "friend_4",
+      "username": "Imaginary Friend 4",
+      "avatar":  "https://i.pinimg.com/564x/dd/61/d5/dd61d584c5015a2ba283095aec62968f.jpg"
+    },
+    {
+      "id": "friend_5",
+      "username": "Imaginary Friend 5",
+      "avatar":  "https://i.pinimg.com/564x/dd/61/d5/dd61d584c5015a2ba283095aec62968f.jpg"
+    }
+  ]
+}

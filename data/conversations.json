@@ -1,0 +1,30 @@
+{
+  "conversations": [
+    {
+      "friend_id": "friend_1",
+      "messages": [
+        {
+          "content": "Hello",
+          "createdAt": "1589915547912"
+        },
+        {
+          "content": "A new message",
+          "createdAt": "1589915547912"
+        },
+        {
+          "content": "To add flavour to this conversation",
+          "createdAt": "1589915547912"
+        }
+      ]
+    },
+    {
+      "friend_id": "friend_3",
+      "messages": [
+        {
+          "content": "Good day",
+          "createdAt": "1589915547912"
+        }
+      ]
+    }
+  ]
+}
