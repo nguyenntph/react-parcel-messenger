@@ -3,17 +3,17 @@ import Header from "./Header";
 import Conversation from "./Conversation";
 import Profile from "./Profile";
 
-const Chatbox = () => (
+const Chatbox = currentFriend => (
   <Fragment>
     <div className="p-3">
-      <Header />
+      <Header {...currentFriend} />
     </div>
-    <div className="border-t flex">
+    <div className="border-t flex h-full">
       <div className="w-2/3">
-        <Conversation />
+        <Conversation {...currentFriend} />
       </div>
       <div className="w-1/3 border-l">
-        <Profile />
+        <Profile {...currentFriend} />
       </div>
     </div>
   </Fragment>
